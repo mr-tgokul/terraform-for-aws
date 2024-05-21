@@ -1,0 +1,13 @@
+# Initialize Terraform
+
+terraform init
+
+
+# Plan
+
+terraform plan
+
+
+# Apply
+
+terraform apply 
