@@ -1,0 +1,7 @@
+Lets say we have a test and dev environment where we use t2.nano for test and t2.micro for dev but we don’t want to modify the variable file each and every time so what we can do is
+
+1.	Main File
+2.	Simple variable file with no values
+3.	dev.tfvars file with variable values
+4.	test.tfvars file with variable values
+5.	while applying use the appropriate variable value files
