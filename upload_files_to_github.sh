@@ -2,7 +2,7 @@
 
 # Variables
 REPO_DIR="C:/Users/GT082376/Important/Studies/DevOps/DK/terraform-for-aws" # Change this to your local repository path
-COMMIT_MESSAGE="Alias" # Customize your commit message
+COMMIT_MESSAGE="Modules" # Customize your commit message
 BRANCH_NAME="main" # Change to the branch you want to push to
 
 # Navigate to the repository directory
