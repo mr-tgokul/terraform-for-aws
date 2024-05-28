@@ -2,7 +2,7 @@
 
 # Variables
 REPO_DIR="C:/Users/GT082376/Important/Studies/DevOps/DK/terraform-for-aws" # Change this to your local repository path
-COMMIT_MESSAGE="Create Subnet in Existing VPC" # Customize your commit message
+COMMIT_MESSAGE="Filter AMI - Data Source" # Customize your commit message
 BRANCH_NAME="main" # Change to the branch you want to push to
 
 # Navigate to the repository directory
